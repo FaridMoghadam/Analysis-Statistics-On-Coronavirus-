@@ -21,7 +21,7 @@ This notebook will visualize the situation and trend of coronavirus outbreak at 
     
 ##### Note: 
     - This research is based on the Jalali calendar.
-    - This is the first exercise to using Python in data analysis.
+    - This is the my first exercise to using Python in data analysis.
 
 
 ##### About Me: 
