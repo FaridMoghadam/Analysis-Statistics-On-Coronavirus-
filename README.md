@@ -1,4 +1,4 @@
-# Analysis Statistics On  "Coronavirus Data in Iran" 
+# Analysis Statistics Coronavirus in Iran
 ##### Review statistics collectively
 
 
