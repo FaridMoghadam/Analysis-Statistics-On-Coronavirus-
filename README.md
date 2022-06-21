@@ -9,6 +9,8 @@ which caused millions of deaths.
 This notebook will visualize the situation and trend of coronavirus outbreak at a country level.
 
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
 
 Source of publisher of this information:
 
@@ -22,5 +24,6 @@ Source of publisher of this information:
     
 This is the first exercise to using Python in data analysis.
 
-    About Me: 
+About Me: 
+
     www.linkedin.com/in/farid-moghadam
