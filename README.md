@@ -1,6 +1,5 @@
 # Analysis Statistics Coronavirus in Iran
-##### Review statistics collectively
-
+###### From Feb 19, 2020 to Jun 20, 2022 ( ۱۳۹۸/۱۱/۳۰ - ۱۴۰۱/۰۳/۳۰)
 
 ________________________________________________________________________________________
 
@@ -16,12 +15,14 @@ This notebook will visualize the situation and trend of coronavirus outbreak at 
 
 ##### Source of this information:
 
-    Official statistics of corona in Iran (patients, deaths, recovered) from March 27, 2017 to April 20, 2016 .
-    ("https://iranopendata.org/en/dataset/official-corona-statistics-in-iran-patients-deaths-recovered")
+    Iran: Coronavirus Pandemic Country Profile -From Feb 19, 2020 to Jun 20, 2022
+    ("https://ourworldindata.org/coronavirus/country/iran")
     
 ##### Note: 
-    - This research is based on the Jalali calendar.
-    - This is the my first exercise to using Python in data analysis.
+    - This is my first exercise to using Python in data analysis.
+
+
+________________________________________________________________________________________
 
 
 ##### About Me: 
