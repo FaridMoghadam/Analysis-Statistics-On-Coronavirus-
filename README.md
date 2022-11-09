@@ -1,4 +1,4 @@
-# Analysis Statistics Coronavirus in Iran
+# Analysis Statistics Coronavirus in Iran.
 ###### From Feb 19, 2020 to Jun 20, 2022 ( ۱۳۹۸/۱۱/۳۰ - ۱۴۰۱/۰۳/۳۰)
 
 
@@ -18,7 +18,7 @@ This notebook will visualize the situation and trend of coronavirus outbreak at 
 
 ##### Source of this information:
 
-    Iran: Coronavirus Pandemic Country Profile -From Feb 19, 2020 to Jun 20, 2022
+    Iran: Coronavirus Pandemic Country Profile -From Feb 19, 2020 to Jun 20, 2022 :
     ("https://ourworldindata.org/coronavirus/country/iran")
     
 ##### Note: 
