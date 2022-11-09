@@ -1,5 +1,5 @@
-# Analysis Statistics Coronavirus in Iran.
-###### From Feb 19, 2020 to Jun 20, 2022 ( ۱۳۹۸/۱۱/۳۰ - ۱۴۰۱/۰۳/۳۰)
+# Analysis Statistics Coronavirus in Iran
+###### From Feb 19, 2020 to Jun 20, 2022 ( ۱۳۹۸/۱۱/۳۰ To ۱۴۰۱/۰۳/۳۰)
 
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
